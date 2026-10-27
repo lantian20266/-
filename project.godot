@@ -1,0 +1,14 @@
+config_version=5
+
+[application]
+config/name="失序童话 · 战斗灰盒"
+run/main_scene="res://main.tscn"
+
+[display]
+window/size/viewport_width=1280
+window/size/viewport_height=800
+window/stretch/mode="canvas_items"
+
+[rendering]
+renderer/rendering_method="gl_compatibility"
+environment/defaults/default_clear_color=Color(0.055,0.065,0.08,1)

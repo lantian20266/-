@@ -1,0 +1,14 @@
+.godot/
+builds/*
+!builds/README.md
+*.tmp
+*.log
+.env
+.env.*
+*.import
+*.translation
+*.cfg
+*.save
+*.bak
+Thumbs.db
+Desktop.ini
